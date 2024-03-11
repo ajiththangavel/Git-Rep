@@ -3,3 +3,5 @@ sample  text file
 contents are edited 
 
 this line changed from sub-branch
+
+edited this line from sub-branch for second time
